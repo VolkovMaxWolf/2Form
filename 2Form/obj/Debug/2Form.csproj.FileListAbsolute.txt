@@ -1,0 +1,11 @@
+D:\Wolf\2Form\2Form\bin\Debug\2Form.exe.config
+D:\Wolf\2Form\2Form\bin\Debug\2Form.exe
+D:\Wolf\2Form\2Form\bin\Debug\2Form.pdb
+D:\Wolf\2Form\2Form\obj\Debug\2Form.csprojAssemblyReference.cache
+D:\Wolf\2Form\2Form\obj\Debug\_2Form.Form1.resources
+D:\Wolf\2Form\2Form\obj\Debug\_2Form.Properties.Resources.resources
+D:\Wolf\2Form\2Form\obj\Debug\2Form.csproj.GenerateResource.cache
+D:\Wolf\2Form\2Form\obj\Debug\2Form.csproj.CoreCompileInputs.cache
+D:\Wolf\2Form\2Form\obj\Debug\2Form.exe
+D:\Wolf\2Form\2Form\obj\Debug\2Form.pdb
+D:\Wolf\2Form\2Form\obj\Debug\_2Form.Form2.resources
